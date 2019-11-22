@@ -15,15 +15,15 @@ nav {
     height: 70px;
     float: left;
     margin-top: 10px;
-    margin-left: 35px;
+    margin-left: 265px;
     
 }
 
 .navitem {
     color: white;
-    width: 200px;
+    width: 100px;
     height: 70px;
-    background-color: darkgray;
+    /* background-color: darkgray; */
     margin-top: 10px;
     margin-left: 50px;
     float: left;
@@ -33,5 +33,9 @@ img {
     
     margin: 15px;
 
-
 }
+section {
+
+        margin-left: 250px;
+}
+

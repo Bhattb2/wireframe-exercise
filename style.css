@@ -39,3 +39,16 @@ section {
         margin-left: 250px;
 }
 
+article {
+
+    
+    width: 480px;
+    border: 7px solid, black;
+    display: inline-block;
+    overflow: scroll;
+    max-height: 480px;
+    position: relative;
+    scroll-margin-bottom: 15px;
+
+}
+

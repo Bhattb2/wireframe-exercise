@@ -2,20 +2,36 @@ nav {
     margin: auto;
     background: grey;
     height: 90px;
-    padding: 10px;
+    text-align: center;
+    line-height: 60px;
+    margin-bottom: 15px;
+
 }
 
 #logo {
-    background-color: #581d1d;
+    background-color: black;
+    color: white;
     width: 200px;
     height: 70px;
     float: left;
-    margin: 10px;
-    margin-left: 6%;
+    margin-top: 10px;
+    margin-left: 35px;
     
 }
-.Navitem {
-    display: inline-block;
+
+.navitem {
+    color: white;
     width: 200px;
     height: 70px;
+    background-color: darkgray;
+    margin-top: 10px;
+    margin-left: 50px;
+    float: left;
+}
+
+img {
+    
+    margin: 15px;
+
+
 }
